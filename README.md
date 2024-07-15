@@ -1,3 +1,2 @@
-# gtav-labels-simplified-chinese
 
-GTA5 简体中文的游戏对话、显示文本
+GTA5 v1.69-3258 简体中文的游戏对话、显示文本
